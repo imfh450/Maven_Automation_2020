@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import java.io.IOException;
 
 public class TC01_GoogleSearchNumber extends Abstract_Class_Regular {
-
+//commit
     @Test
     public void googleSearchResult() throws IOException, InterruptedException {
         driver.navigate().to("https://www.google.com");

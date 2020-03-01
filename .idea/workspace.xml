@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c358160-532a-4d8f-bf56-19c596e07ccd" name="Default Changelist" comment="" />
+    <list default="true" id="9c358160-532a-4d8f-bf56-19c596e07ccd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -30,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Selenium Files" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -221,10 +226,10 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1397" height="300" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1582152297199" />
-    <state x="224" y="107" key="SettingsEditor" timestamp="1582476407307">
+    <state x="224" y="107" key="SettingsEditor" timestamp="1583083917339">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="224" y="107" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1582476407307" />
+    <state x="224" y="107" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1583083917339" />
     <state x="377" y="211" key="run.anything.popup" timestamp="1582398613154">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
