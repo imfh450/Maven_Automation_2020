@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a52684e-aafa-49eb-910e-7308170db432" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Selenium Files" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WG1du8zDNoT1GoSBgSlvT2G1wb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Md s Islam\Desktop\Selenium Files\src\Resource" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Action_Item_ClassWork">
+    <configuration name="ActionItem_3_Metlife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6_01262020.ActionItem_3_Metlife" />
+      <module name="Selenium Files" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day6_01262020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Action_Item4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day8_02022020.Action_Item4" />
+      <module name="Selenium Files" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day8_02022020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Action_Item_ClassWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day9_02082020.Action_Item_ClassWork" />
+      <module name="Selenium Files" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day9_02082020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMetLife_loops_Scrolling" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Day7_02012020.TestMetLife_loops_Scrolling" />
+      <module name="Selenium Files" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day7_02012020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="USPS_MouseActions" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day8_02022020.USPS_MouseActions" />
+      <module name="Selenium Files" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day8_02022020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="google_datadriven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day8_02022020.google_datadriven" />
+      <module name="Selenium Files" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day8_02022020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Action_Item_ClassWork" />
+        <item itemvalue="Application.Action_Item4" />
+        <item itemvalue="Application.google_datadriven" />
+        <item itemvalue="Application.TestMetLife_loops_Scrolling" />
+        <item itemvalue="Application.ActionItem_3_Metlife" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a52684e-aafa-49eb-910e-7308170db432" name="Default Changelist" comment="" />
+      <created>1578761207639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578761207639</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="142" key="#TestMetLife_loops" timestamp="1580580624306">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="448" y="142" key="#TestMetLife_loops/0.0.1440.920@0.0.1440.920" timestamp="1580580624306" />
+    <state x="448" y="142" key="#TestMetLife_loops_Scrolling" timestamp="1580580676049">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="448" y="142" key="#TestMetLife_loops_Scrolling/0.0.1440.920@0.0.1440.920" timestamp="1580580676049" />
+    <state x="526" y="181" key="#com.intellij.ide.util.MemberChooser" timestamp="1581180121080">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="526" y="181" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920@0.0.1440.920" timestamp="1581180121080" />
+    <state x="496" y="219" key="DetectedRootsChooserDialog" timestamp="1580664586112">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="496" y="219" key="DetectedRootsChooserDialog/0.0.1440.920@0.0.1440.920" timestamp="1580664586112" />
+    <state x="522" y="258" key="FileChooserDialogImpl" timestamp="1581262700867">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="522" y="258" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1581262700867" />
+    <state width="1397" height="159" key="GridCell.Tab.0.bottom" timestamp="1581219306979">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="159" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1581219306979" />
+    <state width="1397" height="159" key="GridCell.Tab.0.center" timestamp="1581219306979">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="159" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1581219306979" />
+    <state width="1397" height="159" key="GridCell.Tab.0.left" timestamp="1581219306979">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="159" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1581219306979" />
+    <state width="1397" height="159" key="GridCell.Tab.0.right" timestamp="1581219306979">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="159" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1581219306979" />
+    <state width="1397" height="300" key="GridCell.Tab.1.bottom" timestamp="1580668924622">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1580668924622" />
+    <state width="1397" height="300" key="GridCell.Tab.1.center" timestamp="1580668924622">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1580668924622" />
+    <state width="1397" height="300" key="GridCell.Tab.1.left" timestamp="1580668924622">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1580668924622" />
+    <state width="1397" height="300" key="GridCell.Tab.1.right" timestamp="1580668924622">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1580668924622" />
+    <state x="222" y="78" key="SettingsEditor" timestamp="1580664623405">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="222" y="78" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1580664623405" />
+    <state x="421" y="286" key="com.intellij.ide.util.TipDialog" timestamp="1579964226578">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="421" y="286" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1579964226578" />
+    <state x="171" y="88" key="new project wizard" timestamp="1581262761335">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="171" y="88" key="new project wizard/0.0.1440.920@0.0.1440.920" timestamp="1581262761335" />
+    <state x="377" y="211" key="run.anything.popup" timestamp="1580659871607">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="377" y="211" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1580659871607" />
+    <state x="743" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1581187077949">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="743" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1581187077949" />
+  </component>
+</project>
