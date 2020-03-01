@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c358160-532a-4d8f-bf56-19c596e07ccd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XZo1OHJCkGh55UTUruTHu6eZeg" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Selenium Files" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Md s Islam\Desktop\Maven_Automation_2020\src\test\java\Cucumber\Feature" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ActionItem" />
+      <recent name="Reusable_library" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Md s Islam\Desktop\Maven_Automation_2020\src\test\java\ActionItem" />
+      <recent name="C:\Users\Md s Islam\Desktop\Maven_Automation_2020\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TC01_GoogleSearchNumber">
+    <configuration name="executableClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cucumber.Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Cucumber.Runner" />
+      <option name="MAIN_CLASS_NAME" value="Cucumber.Runner.executableClass" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Md s Islam/Desktop/Maven_Automation_2020/src/test/java/ActionItem/smoketest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/ActionItem/smoketest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleSearch_Report" type="TestNG" nameIsGenerated="true">
+      <module name="Maven project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Reusable_library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ActionItem" />
+      <option name="MAIN_CLASS_NAME" value="ActionItem.GoogleSearch_Report" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC01_GoogleSearchNumber" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Google_POM_Testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Google_POM_Testcases" />
+      <option name="MAIN_CLASS_NAME" value="Google_POM_Testcases.TC01_GoogleSearchNumber" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC01_GoogleSearchNumber.googleSearchResult" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Google_POM_Testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Google_POM_Testcases" />
+      <option name="MAIN_CLASS_NAME" value="Google_POM_Testcases.TC01_GoogleSearchNumber" />
+      <option name="METHOD_NAME" value="googleSearchResult" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Yahoo_Signin_AbstractClass.Yahoo_Signin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Reusable_library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ActionItem" />
+      <option name="MAIN_CLASS_NAME" value="ActionItem.Yahoo_Signin_AbstractClass" />
+      <option name="METHOD_NAME" value="Yahoo_Signin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TC01_GoogleSearchNumber" />
+        <item itemvalue="TestNG.TC01_GoogleSearchNumber.googleSearchResult" />
+        <item itemvalue="JUnit.executableClass" />
+        <item itemvalue="TestNG.C:/Users/Md s Islam/Desktop/Maven_Automation_2020/src/test/java/ActionItem/smoketest.xml" />
+        <item itemvalue="TestNG.Yahoo_Signin_AbstractClass.Yahoo_Signin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c358160-532a-4d8f-bf56-19c596e07ccd" name="Default Changelist" comment="" />
+      <created>1581262761429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581262761429</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="272" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582992786484">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="468" y="272" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.920@0.0.1440.920" timestamp="1582992786484" />
+    <state x="355" y="391" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582999807941">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="355" y="391" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.920@0.0.1440.920" timestamp="1582999807941" />
+    <state x="501" y="220" key="FileChooserDialogImpl" timestamp="1582993302812">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="220" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1582993302812" />
+    <state width="1397" height="216" key="GridCell.Tab.0.bottom" timestamp="1583003538535">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="216" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1583003538535" />
+    <state width="1397" height="216" key="GridCell.Tab.0.center" timestamp="1583003538535">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="216" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1583003538535" />
+    <state width="1397" height="216" key="GridCell.Tab.0.left" timestamp="1583003538535">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="216" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1583003538535" />
+    <state width="1397" height="216" key="GridCell.Tab.0.right" timestamp="1583003538535">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="216" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1583003538535" />
+    <state width="1397" height="300" key="GridCell.Tab.1.bottom" timestamp="1582152297199">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1582152297199" />
+    <state width="1397" height="300" key="GridCell.Tab.1.center" timestamp="1582152297199">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1582152297199" />
+    <state width="1397" height="300" key="GridCell.Tab.1.left" timestamp="1582152297184">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1582152297184" />
+    <state width="1397" height="300" key="GridCell.Tab.1.right" timestamp="1582152297199">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1582152297199" />
+    <state x="224" y="107" key="SettingsEditor" timestamp="1582476407307">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="224" y="107" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1582476407307" />
+    <state x="377" y="211" key="run.anything.popup" timestamp="1582398613154">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="377" y="211" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1582398613154" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1582478253583">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1582478253583" />
+  </component>
+</project>

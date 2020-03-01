@@ -1,0 +1,5 @@
+@mlcalcFeature
+  Feature: Google Test Scenarios
+    Scenario Outline: TC1 get google search number
+      Given I navigated to Google home page
+      When I V
